@@ -1,2 +1,6 @@
 print("Hello, World!")
 azu thing but in cloud pefromance
+a = 5
+b = 3
+sum = a + b
+print("Sum:", sum)
